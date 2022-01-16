@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DiscoPorridge
-- 👀 I’m interested in programming, machine learning, gaming and formula 1
+- 👀 I’m interested in programming, machine learning, formula 1, climbing and ice hockey
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
