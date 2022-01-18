@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiscoPorridge
 - 👀 I’m interested in programming, machine learning, formula 1, climbing and ice hockey
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently taking part in the #100DaysOfCode challenge and picked python as my language
 - 📫 How to reach me ...
 
 <!---
