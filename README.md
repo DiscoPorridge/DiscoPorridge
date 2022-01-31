@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiscoPorridge
+- 👋 Hi, I’m Stephen
 - 👀 I’m interested in programming, machine learning, formula 1, climbing and ice hockey
 - 🌱 I’m currently learning Python while taking part in the #100DaysOfCode challenge
 - 📫 You can reach me on twitter @discoporridge
